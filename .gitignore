@@ -1,0 +1,277 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Python template
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+#  Usually these files are written by a python script from a template
+#  before PyInstaller builds the exe, so as to inject date/other infos into it.
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff:
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+
+# Flask stuff:
+instance/
+.webassets-cache
+
+# Scrapy stuff:
+.scrapy
+
+# Sphinx documentation
+docs/_build/
+
+# PyBuilder
+target/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# pyenv
+.python-version
+
+# pipenv
+#   According to pypa/pipenv#598, it is recommended to include Pipfile.lock in version control.
+#   However, in case of collaboration, if having platform-specific dependencies or dependencies
+#   having no cross-platform support, pipenv may install dependencies that don't work, or not
+#   install all needed dependencies.
+#Pipfile.lock
+
+# PEP 582; used by e.g. github.com/David-OConnor/pyflow
+__pypackages__/
+
+# Celery stuff
+celerybeat-schedule
+celerybeat.pid
+
+# SageMath parsed files
+*.sage.py
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+.idea/.gitignore
+.idea/.name
+.idea/Genetic_algorithm.iml
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+"100\344\270\255.png"
+"100\344\274\230.png"
+"100\345\267\256.png"
+"10\344\270\255.png"
+"10\344\274\230.png"
+"10\345\267\256.png"
+"110\344\270\255.png"
+"110\344\274\230.png"
+"110\345\267\256.png"
+"120\344\270\255.png"
+"120\344\274\230.png"
+"120\345\267\256.png"
+"130\344\270\255.png"
+"130\344\274\230.png"
+"130\345\267\256.png"
+"140\344\270\255.png"
+"140\344\274\230.png"
+"140\345\267\256.png"
+"150\344\270\255.png"
+"150\344\274\230.png"
+"150\345\267\256.png"
+"160\344\270\255.png"
+"160\344\274\230.png"
+"160\345\267\256.png"
+"170\344\270\255.png"
+"170\344\274\230.png"
+"170\345\267\256.png"
+"180\344\270\255.png"
+"180\344\274\230.png"
+"180\345\267\256.png"
+"190\344\270\255.png"
+"190\344\274\230.png"
+"190\345\267\256.png"
+"200\344\270\255.png"
+"200\344\274\230.png"
+"200\345\267\256.png"
+"20\344\270\255.png"
+"20\344\274\230.png"
+"20\345\267\256.png"
+"210\344\270\255.png"
+"210\344\274\230.png"
+"210\345\267\256.png"
+"220\344\270\255.png"
+"220\344\274\230.png"
+"220\345\267\256.png"
+"230\344\270\255.png"
+"230\344\274\230.png"
+"230\345\267\256.png"
+"240\344\270\255.png"
+"240\344\274\230.png"
+"240\345\267\256.png"
+"250\344\270\255.png"
+"250\344\274\230.png"
+"250\345\267\256.png"
+"260\344\270\255.png"
+"260\344\274\230.png"
+"260\345\267\256.png"
+"270\344\270\255.png"
+"270\344\274\230.png"
+"270\345\267\256.png"
+"280\344\270\255.png"
+"280\344\274\230.png"
+"280\345\267\256.png"
+"290\344\270\255.png"
+"290\344\274\230.png"
+"290\345\267\256.png"
+"300\344\270\255.png"
+"300\344\274\230.png"
+"300\345\267\256.png"
+"30\344\270\255.png"
+"30\344\274\230.png"
+"30\345\267\256.png"
+"310\344\270\255.png"
+"310\344\274\230.png"
+"310\345\267\256.png"
+"320\344\270\255.png"
+"320\344\274\230.png"
+"320\345\267\256.png"
+"330\344\270\255.png"
+"330\344\274\230.png"
+"330\345\267\256.png"
+"340\344\270\255.png"
+"340\344\274\230.png"
+"340\345\267\256.png"
+"40\344\270\255.png"
+"40\344\274\230.png"
+"40\345\267\256.png"
+"50\344\270\255.png"
+"50\344\274\230.png"
+"50\345\267\256.png"
+"60\344\270\255.png"
+"60\344\274\230.png"
+"60\345\267\256.png"
+"70\344\270\255.png"
+"70\344\274\230.png"
+"70\345\267\256.png"
+"80\344\270\255.png"
+"80\344\274\230.png"
+"80\345\267\256.png"
+"90\344\270\255.png"
+"90\344\274\230.png"
+"90\345\267\256.png"
+Genetic.py
+backup.tmp
+fitness10.png
+fitness100.png
+fitness110.png
+fitness120.png
+fitness130.png
+fitness140.png
+fitness150.png
+fitness160.png
+fitness170.png
+fitness180.png
+fitness190.png
+fitness20.png
+fitness200.png
+fitness210.png
+fitness220.png
+fitness230.png
+fitness240.png
+fitness250.png
+fitness260.png
+fitness270.png
+fitness280.png
+fitness290.png
+fitness30.png
+fitness300.png
+fitness310.png
+fitness320.png
+fitness330.png
+fitness340.png
+fitness40.png
+fitness50.png
+fitness60.png
+fitness70.png
+fitness80.png
+fitness90.png
+test.png
