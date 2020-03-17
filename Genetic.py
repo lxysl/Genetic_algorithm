@@ -1,6 +1,3 @@
-# 遗传算法进化出Chrome浏览器图标
-# 作者: Charles
-# 公众号: Charles的皮卡丘
 from PIL import Image
 import os
 import math
@@ -219,5 +216,5 @@ if __name__ == '__main__':
     ori_img = './test.png'
     # 折线图数据[优，差，均，代]
     plotdata = [[], [], [], []]
-    # resume为True则读取备份文件，在其基础上进行自然选择，交叉变异
+    # resume为True则读取备份文件，在其基础上进行自然选择和变异
     run(ori_img, backup, plotdata, resume=False)
