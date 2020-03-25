@@ -18,7 +18,7 @@ def GetImage(ori_img):
             r, g, b = img.getpixel((i, j))[:3]
             temp.append([r, g, b, r + g + b])
         color.append(temp)
-    # color：二维数组，每个一维列表包含r,g,b,r+g+b四个值
+    # color：三维数组，第一维列表包含r,g,b,r+g+b四个值，第二维表示行，第三维表示列
     return color, img.size
 
 
